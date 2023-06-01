@@ -1,0 +1,6 @@
+hops 0.5
+nchess 1
+lunsj 0.5
+salg 2
+unicad 3
+iteratetid 0.5
